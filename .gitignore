@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# AIドキュメント
+docs/
+.claude/
+CLAUDE.md
+AGENTS.md
+project.md
 # C extensions
 *.so
 
